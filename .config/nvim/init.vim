@@ -1,0 +1,1 @@
+/Users/dima/.oh-my-neovim/init.vim
