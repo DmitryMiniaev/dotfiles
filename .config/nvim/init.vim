@@ -1,1 +1,2 @@
-/Users/dima/.oh-my-neovim/init.vim
+set nocompatible
+set clipboard=unnamedplus
